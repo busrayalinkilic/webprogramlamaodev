@@ -4,7 +4,7 @@
 <b>Erciyes Üniversitesi Bilgisayar Mühendisliği Bölümü </b> <br>
 Tasarlayan: <b> Büşra Yalınkılıç </b>  Öğretim Üyesi: Dr. Fehim KÖYLÜ  <br>
 
-<b>DoSYALAR Mİ İÇİNDEKİ WWW.Mİ.COM/TR DOSYASI İÇİNDE (İNDEX VE HAKKIMDA). </b> <br> <br>
+<b>DOSYALAR Mİ İÇİNDEKİ WWW.Mİ.COM/TR DOSYASI İÇİNDE (İNDEX VE HAKKIMDA). </b> <br> <br>
 <b>Kullanılan Araçlar</b> <br>
 1.HTML5 <br>
 2.CSS3 <br>
